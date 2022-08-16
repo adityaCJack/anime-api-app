@@ -1,0 +1,29 @@
+body {
+  font-family: "poppins", "sans-serief";
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+}
+
+.main-content {
+  padding-top: 5%;
+  padding: 2%;
+}
+
+.sidebar {
+  background: #fff;
+}
+
+.sidebar-heading {
+  color: #fff;
+  padding: 2%;
+  background-color: #222;
+  text-align: center;
+}
+
+.more-info {
+  background-color: #fff;
+  padding-top: 2%;
+  padding-left: 5%;
+  padding-bottom: 5%;
+  padding-right: 5%;
+}
